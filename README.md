@@ -6,8 +6,6 @@
 
 - Logical_Simplification_release-v1.0
   - 这个文件夹是可执行程序所在的文件夹，打开该文件夹，双击Logical_Simplification.exe即可打开图形界面
-- 基于QT的逻辑化简实现.pdf
-  - 这个pdf文件是包含程序的使用说明，还有实现思路
 - 源代码
   - 这个文件夹为项目文件夹，这个文件夹下包含所有的.cpp .h文件，安装QT 4.11.1以上环境，即可打开项目文件夹，按CTRL + R即可运行一个一摸一样的软件
 
